@@ -1,5 +1,5 @@
-## DOMAIN INFORMED DEGRADATION DETECTION AND PROGNOSTICS FOR HYDROPOWER COMPONENTS
-This is the code used for domain informed degradation detection and prognostics for HRI dataset. The current version of the code utilized operational data and performs analysis on the turbine's guide bearings. 
+## FRAGILITY MODEL FOR GRID COMPONENTS UNDER EXTREME WEATHER EVENTS
+This is the code used for constructing fragility models of grid components under extreme weather events, developed in project "ABSCoRES, A novel application of Banking Scoring and Rating for Electricity Systems", funded by the Advanced Research Projects Agency-Energy (ARPAE), U.S. Department of Energy, under Award Number DEAR0001277
 
 Dataset used: a) Vibration data from Turbine Guide Bearings, and b) Power data from Turbine Guide Bearings
 
