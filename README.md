@@ -1,4 +1,5 @@
 # Fragility Model for Grid Components under Extreme Weather Events
+*This repository has been archived and is no longer maintained. The code is provided for historical reference and may contain unpatched or unknown vulnerabilities. It should not be used in production systems.*
 
 Developed under project “ABSCoRES, A novel application of Banking Scoring and Rating for Electricity Systems”, funded by the Advanced Research Projects Agency-Energy (ARPAE), U.S. Department of Energy, under Award Number DEAR0001277.
 
